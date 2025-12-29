@@ -1,5 +1,7 @@
-# 💫 About Me:
+# 🚀 About Me
 Hi there! I'm Samarjeet, a passionate entry-level professional eager to dive into the world of DevOps. With a knack for leadership and strong management skills, I'm driven to contribute meaningfully to any team or project I'm a part of.<br><br>You'll often find me tinkering away with tools like AWS, GitHub, Jenkins, Docker, Kubernetes, Terraform, Ansible, and Grafana. Yep, I've got quite the toolbox, and I'm not afraid to use it!<br><br>So, if you're up for a chat about DevOps, tech, or just about anything, hit me up! I'm always keen to connect and explore new horizons.
+
+# 🛠️ Tech Stack
 
 
 ## 🌐 Socials:
